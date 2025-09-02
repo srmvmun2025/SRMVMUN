@@ -43,6 +43,7 @@ Through their work, IPC delegates develop skills in research, writing, interview
     chairpersons: [
       { name: "Ann", role: "Co-Head Of Journalism", imgSrc: "/cp/ann.jpeg" },
       { name: "Keerthana", role: "Co-Head Of Journalism", imgSrc: "/cp/keerthana.jpeg" },
+      { name: "Prabhu Shankar", role: "Head of Photography", imgSrc: "/cp/prabhu.jpg" },
     ]
   },
   {

@@ -1,0 +1,150 @@
+{
+  "coreTeamMembers": [
+    {
+      "name": "Janani Giridharan",
+      "role": "Deputy Secretary General",
+      "description": "The calm in the chaos, the one who shows up before you even realize you need her or do you",
+      "image": "/janani.jpg"
+    },
+    {
+      "name": "Sivakaathikeyan V",
+      "role": "Secretary General",
+      "description": "If it’s running, he started it. If it’s broken, he’s fixing it. If it’s chaos, he’s already seen worse",
+      "image": "/sk.jpg"
+    },
+    {
+      "name": "Sai Harshith",
+      "role": "Charge D'Affaires",
+      "description": "Takes the workload personally. Survives on grit, and sheer refusal to let things fall apart.",
+      "image": "/harshit.jpg"
+    }
+  ],
+  "usgMembers": [
+    {
+      "name": "Reshmi R",
+      "role": "PR and Outreach",
+      "description": "Building bridges through communication, fostering connections, and amplifying voices with impact.",
+      "image": "/reshmi.jpeg"
+    },
+    {
+      "name": "Vaasavi",
+      "role": "PR and Outreach",
+      "description": "Poster drops, PR pops, and outreach ops — making MUN look better than your IG feed",
+      "image": "/vaasavi.jpg"
+    },
+    {
+      "name": "Sabareeswar",
+      "role": "Logistics",
+      "description": "Carries responsibility not as weight, but as a chance to create magic.",
+      "image": "/sabaree.jpeg"
+    },
+    {
+      "name": "Jayachandran",
+      "role": "Logistics",
+      "description": "A smooth operator turning chaos into coordination, always with a smile.",
+      "image": "/jay.jpg"
+    },
+    {
+      "name": "Joshika Yuvaraj",
+      "role": "Finance",
+      "description": "Growing skills, building connections, and leading finance with passion.",
+      "image": "/joshika.jpeg"
+    },
+    {
+      "name": "Avanthika K",
+      "role": "Finance",
+      "description": "Budget sorceress. Spreadsheet whisperer. Certified chaos manager. Avanthika:making cents of the nonsense",
+      "image": "/avanthika.jpg"
+    },
+    {
+      "name": "Nikitha S R",
+      "role": "Delegate Affairs",
+      "description": "Delegate chaos? She’s seen it, solved it, probably color-coded it.",
+      "image": "/nikitha.jpeg"
+    },
+    {
+      "name": "Ayush Thakur",
+      "role": "Delegate Affairs",
+      "description": "Fueled by coffee, driven by cells, living the Excel life.",
+      "image": "/ayush.jpg"
+    },
+    {
+      "name": "Anshita Tripathi",
+      "role": "Delegate Affairs",
+      "description": "Cuts through complexity with insight, sparking dialogue and driving bold,clear leadership.",
+      "image": "/anshita.jpg"
+    },
+    {
+      "name": "Prabhakaran S",
+      "role": "Visual Media",
+      "description": "The eye behind every frame, the mind behind every vision.",
+      "image": "/prabha.jpg"
+    },
+    {
+      "name": "Akshaya KJS",
+      "role": "Visual Media",
+      "description": "Capturing moments that frame emotions and tell stories beyond words.",
+      "image": "/akshaya.jpeg"
+    },
+    {
+      "name": "Athithya S A",
+      "role": "Visual Media",
+      "description": "Lighting, angles, vision, and passion merge into unforgettable visual artistry",
+      "image": "/athi.jpg"
+    },
+    {
+      "name": "Lohitashva",
+      "role": "Sponsorship",
+      "description": "Moving in silence, working with intent, and creating beyond the spotlight.",
+      "image": "/lohit.JPG"
+    },
+    {
+      "name": "Jithendran",
+      "role": "Sponsorship",
+      "description": "Driving collaborations with determination, turning visions into reality through meaningful alliances.",
+      "image": "/jitendra.jpg"
+    },
+    {
+      "name": "Siddiq Arya",
+      "role": "Sponsorship",
+      "description": "Development finance expert working on poverty alleviation and economic growth.",
+      "image": "/arya.PNG"
+    },
+    {
+      "name": "Chandrika Banerjee",
+      "role": "Content",
+      "description": "Bridging ideas with opportunities, securing support, and building partnerships that power success.",
+      "image": "/chandrika.jpg"
+    },
+    {
+      "name": "Prabhanjan G H",
+      "role": "Content",
+      "description": "Espresso in hand, GoT on pause, and a handful of jokes when uncomfortable— He’s ready to get stuff done… eventually.",
+      "image": "/prabhanjan.jpg"
+    },
+    {
+      "name": "Manasa Lal",
+      "role": "Hospitality",
+      "description": "Welcoming with warmth, ensuring comfort, and creating an atmosphere where every guest feels valued.",
+      "image": "/manasa.jpeg"
+    },
+    {
+      "name": "Pratham Mehta",
+      "role": "Hospitality",
+      "description": "Caring deeply, working quietly, and making moments truly memorable.",
+      "image": "/pratham.jpg"
+    },
+    {
+      "name": "Arjun Kaymala",
+      "role": "Technical",
+      "description": "Curious at heart, driven by grit, and powered by a passion for tech.",
+      "image": "/arjun.jpg"
+    },
+    {
+      "name": "Haryshwa Ganesh",
+      "role": "Technical",
+      "description": "Glitches disappear, systems thrive, innovation breathes through technical mastery.",
+      "image": "/haryshwa.jpg"
+    }
+  ]
+} 
